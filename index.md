@@ -1,80 +1,60 @@
 <div direction="rtl">
-  ## About Me
-  من امیررضا باهوش هستم. من دانشجوی کارشناسی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور و یک فرانت اند دولوپر هستم.
+  <h1> درباره ی من</h1>
+  <p>من امیررضا باهوش هستم. من دانشجوی کارشناسی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور و یک فرانت اند دولوپر هستم.</p>
   
-  ## Skills
-  
-  + Javascript
+<h1>مهارت ها</h1>
 
-+ HTML5
+<ul>
+  <li>Javascript</li>
+  <li>HTML5</li>
+  <li>Styling( CSS3 - Sass - Less - BEM - Styled Components)</li>
+  <li>UI Libraries( Bootstrap - Material UI - Antd)</li>
+  <li>React js</li>
+  <li>React Hooks</li>
+  <li>React Context</li>
+  <li>Redux</li>
+  <li>ES6</li>
+  <li>JQuery</li>
+  <li>Websocket</li>
+  <li>Axios</li>
+  <li>Webpack</li>
+  <li>Gulp js</li>
+  <li>Docker</li>
+  <li>Ubuntu</li>
+  <li>Unit Testing (Jestjs - Enzyme)</li>
+  <li>UX Design</li>
+  <li>Git</li>
+</ul>
 
-+ Styling( CSS3 - Sass - Less - BEM - Styled Components)
+<h1> مدرک ها</h1>
+<ul>
+  <li>HTML & CSS (Tehran Institute of Technology)</li>
+  <li>JavaScript (Tehran Institute of Technology)</li>
+  <li>bootstrap4 & LESS & SCSS (Tehran Institute of Technology)</li>
+  <li>Wordpress (Tehran Institute of Technology)</li>
+  <li>React & React Native (Faratar Az Danesh)</li>
+  <li>UX Design (Amanj Academy)</li>
+  <li>Javascript (Solo Learn)</li>
+</ul>
 
-+ UI Libraries( Bootstrap - Material UI - Antd)
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+  <li>انگلیسی</li>
+</ul>
 
-+ React js
+<h1> تجربه های کاری </h1>
+<ul>
+   <li> ۱ سال در دبیرستان خاتم به عنوان معلم ریاضی</li>
+   <li>۹ ماه در شرکت سوران ارقام فناور پردیس به عنوان فرانت اند دولوپر</li>
+   <li>۱۱ ماه تا کنون در شرکت موج آینده فرافن به عنوان فرانت اند دولوپر
+</li>
+</ul>
 
-+ React Hooks
+<h1> سایر حساب های کاربری </h1>
+<ul>
+  <li>Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
+  <li>رزومه ی انگلیسی: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
+</ul>
 
-+ React Context
-
-+ Redux 
-
-+ ES6
-
-+ JQuery
-
-+ Websocket
-
-+ Axios
-
-+ Webpack
-
-+ Gulp js
-
-+ Docker
-
-+ Ubuntu
-
-+ Unit Testing (Jestjs - Enzyme)
-
-+ UX Design
-
-+ Git
-
-## Licenses & Certifications(مدارک)
-
-- برنامه نویسی به وسیله ی  HTML و CSS (Tehran Institute of Technology)
-
-- برنامه نویسی به وسیله ی JavaScript (Tehran Institute of Technology)
-
-- bootstrap4 & LESS & SCSS (Tehran Institute of Technology)
-
-- Wordpress (Tehran Institute of Technology)
-
-- React & React Native (Faratar Az Danesh)
-
-- UX Design (Amanj Academy)
-
-- دوره ی جاوااسکریپت (Solo Learn)
-
-## Languages(زبان ها)
-
-- فارسی
-  سطح: پیشرفته(زبان مادری)
-  
-- انگلیسی
-  سطح: متوسط
-
-## Working Experience(تجربه های شغلی)
-
-- ۱ سال در دبیرستان خاتم به عنوان معلم ریاضی
--۹ ماه در شرکت سوران ارقام فناور پردیس به عنوان فرانت اند دولوپر
--۱۱ ماه تا کنون در شرکت موج آینده فرافن به عنوان فرانت اند دولوپر
-
-### Other Accounts( سایر حساب های کاربری)
-- Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a>
-   
-- Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a>
-
-</div>
