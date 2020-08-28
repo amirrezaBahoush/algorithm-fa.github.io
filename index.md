@@ -1,4 +1,5 @@
 <div dir="rtl">
+  <img src="https://avatars3.githubusercontent.com/u/69066265?s=400&u=6f460ff2529b523ac7d1abbf6e7f101012a65a8d&v=4" />
   <h1> درباره ی من</h1>
   <p>من امیررضا باهوش هستم. من دانشجوی کارشناسی رشته ی مهندسی کامپیوتر در دانشگاه پیام نور و یک فرانت اند دولوپر هستم.</p>
   
@@ -55,6 +56,6 @@
 <ul>
   <li>کوئرا: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
   <li>لینکدین: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
-  <li>رزومه ی انگلیسی: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"> رزومه </a></li>
+  <li>رزومه ی انگلیسی: <a href="https://amirrezabahoush.github.io/algorithm.github.io/"> رزومه </a></li>
 </ul>
 
