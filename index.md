@@ -53,8 +53,8 @@
 
 <h1> سایر حساب های کاربری </h1>
 <ul>
-  <li>Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
-  <li>Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
-  <li>رزومه ی انگلیسی: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
+  <li>کوئرا: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a></li>
+  <li>لینکدین: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a></li>
+  <li>رزومه ی انگلیسی: <a href="https://amirrezabahoush.github.io/algorithm-fa.github.io/"></a></li>
 </ul>
 
