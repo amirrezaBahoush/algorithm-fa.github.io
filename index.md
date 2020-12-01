@@ -39,6 +39,7 @@
   <li>Unit Testing (Jestjs - Enzyme)</li>
   <li>UX Design</li>
   <li>Git</li>
+  <li>Gitlab CI</li>
 </ul>
 
 <h1> مدرک ها</h1>
@@ -49,7 +50,7 @@
   <li>Wordpress (Tehran Institute of Technology)</li>
   <li>React & React Native (Faratar Az Danesh)</li>
   <li>UX Design (Amanj Academy)</li>
-  <li>Javascript (Solo Learn)</li>
+  <li>Javascript (Solo Learn) Link: <a href="https://www.sololearn.com/Certificate/1024-18291469/pdf/">Cretificate</a></li>- 
 </ul>
 
 <h1> زبان ها</h1>
